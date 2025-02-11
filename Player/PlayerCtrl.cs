@@ -4,6 +4,7 @@ using UnityEngine;
 using UnityEngine.UI;
 public class PlayerCtrl : MonoBehaviour
 {
+
     /* [Usado para fins de teste] */
     #if UNITY_EDITOR
     public bool testing = true;
